@@ -1,13 +1,7 @@
 /*
  ACÁ DEBE IR EL CÓDIGO NECESARIO PARA CUMPLIR LOS REQUERIMIENTOS
-
-/*
-
-    Pantalla Extra Large (>=1200px) 
-
 */
-
-.row {
+ .row {
     display: flex;
     justify-content: center;
     margin-top: 10%;}
@@ -16,6 +10,14 @@
     padding: 2%;
   }
 
+
+  
+
+/*
+
+  Pantalla Extra Large (>=1200px) 
+
+*/
 
 
 @media(min-width:1200px) {
